@@ -1,0 +1,5 @@
+name: StoreLogs
+version: 1.0
+author: Prunt
+main: me.prunt.storelogs.Main
+description: Moves and renames logs on server shutdown.

@@ -1,0 +1,5 @@
+# Where the logs are moved, relative to Bungeecord folder
+folder: "logs"
+# Java SimpleDateFormat for renaming the log file when moved
+# http://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+format: "yyyy.MM.dd HH:mm:ss"
